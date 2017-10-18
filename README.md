@@ -34,30 +34,30 @@ Finally, there are 7 class of hand shapes in the project. These classes are show
 
 you can see in the following pictures the results of running the source. There are two messages that shows the angle of hand and hand shape (class number).
 
+The result for the first class:
+
 ![class1](https://user-images.githubusercontent.com/15813546/31741525-66653b5e-b461-11e7-9462-248a387c2daa.jpg)
-
-The result for the first class
-
-![class2](https://user-images.githubusercontent.com/15813546/31741526-66a68118-b461-11e7-8321-9a9da298dadc.jpg)
 
 The result for the second class
 
-![class3](https://user-images.githubusercontent.com/15813546/31741527-66e2fea4-b461-11e7-9bf8-6b45faf8a2dc.jpg)
+![class2](https://user-images.githubusercontent.com/15813546/31741526-66a68118-b461-11e7-8321-9a9da298dadc.jpg)
 
 The result for the third class
 
-![class4](https://user-images.githubusercontent.com/15813546/31741529-672b3e1c-b461-11e7-8733-2caafbf103ce.jpg)
+![class3](https://user-images.githubusercontent.com/15813546/31741527-66e2fea4-b461-11e7-9bf8-6b45faf8a2dc.jpg)
 
 The result for the fourth class
 
-![class5](https://user-images.githubusercontent.com/15813546/31741530-676e46bc-b461-11e7-82bc-a8b94a0bad4c.jpg)
+![class4](https://user-images.githubusercontent.com/15813546/31741529-672b3e1c-b461-11e7-8733-2caafbf103ce.jpg)
 
 The result for the fifth class
 
-![class6](https://user-images.githubusercontent.com/15813546/31741531-67c28772-b461-11e7-8c5d-9c4bbc1d70ed.jpg)
+![class5](https://user-images.githubusercontent.com/15813546/31741530-676e46bc-b461-11e7-82bc-a8b94a0bad4c.jpg)
 
 The result for the sixth class
 
-![class7](https://user-images.githubusercontent.com/15813546/31741532-680be890-b461-11e7-9b64-bc36bad53b16.jpg)
+![class6](https://user-images.githubusercontent.com/15813546/31741531-67c28772-b461-11e7-8c5d-9c4bbc1d70ed.jpg)
 
 The result for the seventh class
+
+![class7](https://user-images.githubusercontent.com/15813546/31741532-680be890-b461-11e7-9b64-bc36bad53b16.jpg)
