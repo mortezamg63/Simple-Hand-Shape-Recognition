@@ -15,4 +15,4 @@ In order to detect skin, I assume to reduce the noise in image using median filt
 
 ![eq.2](https://user-images.githubusercontent.com/15813546/31732894-e0d6e22c-b446-11e7-8e59-5e7234e1d0a6.jpg)
 
-![3q.3](https://user-images.githubusercontent.com/15813546/31732899-e2c0b978-b446-11e7-8a58-46477663276a.jpg)
+![3q.3](https://user-images.githubusercontent.com/15813546/31733259-f6ba4006-b447-11e7-8f2c-8e1c4b18b990.jpg)
