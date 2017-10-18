@@ -61,3 +61,9 @@ The result for the sixth class
 The result for the seventh class
 
 ![class7](https://user-images.githubusercontent.com/15813546/31741532-680be890-b461-11e7-9b64-bc36bad53b16.jpg)
+
+### References
+
+[1] R. Thilak kumar, S. Kumar Raja and A. G. Ramakrishnan. “ Eye Detection using Color Cues and Projection Functions” , IEEE ICIP 2002,pp337-340.
+
+[2] Takuro Niidome, Rokuya Ishii . ” A GUI Support System for a Sight Handicapped Person By Using Hand Shape Recognition “,27th Annual Conference of the IEEE Industrial Electronics Society, 2001, vol.1, pp.535-538.
