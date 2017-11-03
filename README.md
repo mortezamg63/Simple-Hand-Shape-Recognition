@@ -11,14 +11,14 @@ The proposed algorithm is shown in the following picture, which consists of thre
 </p>
 
 In order to detect skin, I assume to reduce the noise in image using median filter with size 5 by 5. In order to extract skin area,each pixel's channels is mapped to new space using equations (1) and (2). Then thresholds that are shown in equation (3) are used for separating skin/hand areas and binarizing the image. In case the condition for each pixel does not meet the condition in equation (3), it is considered background pixel with black color in image. Otherwise, The pixel is foreground/hand area with white color.
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/15813546/31732892-de1a65f4-b446-11e7-915b-1c356bbd8c12.jpg">
-
+<br><br>
 <img src="https://user-images.githubusercontent.com/15813546/31732894-e0d6e22c-b446-11e7-8e59-5e7234e1d0a6.jpg">
-
+<br><br>
 <img src="https://user-images.githubusercontent.com/15813546/31733259-f6ba4006-b447-11e7-8f2c-8e1c4b18b990.jpg">
 </p>
-
+<br>
 ### Edge Detection
 
 It is necessary to find edge pixels on palm to find shape of hand. For this purpose, center of gravity is computed using foreground pixels belonging to hand region. Then euclidean distance among edge pixels and center of gravity is computed to find finger tips that are used for hand shape recognition.
